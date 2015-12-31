@@ -16,7 +16,7 @@ edit to the following in repositories section
     ],
 </pre>
 
-Since your package is in a development stage, you will need to change the minimum-stability as well to the composer.json file: -
+Since this package is in a development stage, you will need to change the minimum-stability as well to the composer.json file: -
 <pre>
 "minimum-stability": "dev",
 </pre>
